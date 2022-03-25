@@ -9,13 +9,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpolnx&line_height=27&show_icons=true&count_private=true&theme=merko" width="500"/>
 </a>
 
-<br/>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpolnx&layout=compact&theme=merko" width="500"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpolnx&layout=compact&theme=merko" width="450"/>
 </a>
 
 <br/>
-
-![Snake animation](https://github.com/rpolnx/rpolnx/blob/snake/github-contribution-grid-snake.svg)
